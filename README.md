@@ -14,7 +14,7 @@
 
 [Пример на шоссе (видео, mkv, 10 сек., 4 Мбайта)](../blob/main/dashcam_intercity_rostov-yaroslavl.mkv)
 
-[Полное видео, youtube, 40 мин](https://www.youtube.com/watch?v=hk09F5n1idw)
+[Полное видео (youtube, 42 мин)](https://www.youtube.com/watch?v=hk09F5n1idw)
 
 # Статья
 
